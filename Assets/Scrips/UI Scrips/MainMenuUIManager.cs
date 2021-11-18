@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class UIManager : MonoBehaviour
+public class MainMenuUIManager : MonoBehaviour
 {
     public GameObject playButton, instructionsButton, exitButton;
     // Start is called before the first frame update
